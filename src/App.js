@@ -1,10 +1,9 @@
 import React from 'react';
-import './App.css';
 import styled from 'styled-components'
-import FlexDiv from './components/styles/FlexDiv'
+import FlexDiv from './FlexDiv'
 import AppAddForm from "./AppAddForm";
 import AppCourse from './AppCourse';
-import BarChart from './components/customD3BarChart'
+import BarChart from './customD3BarChart'
 
 const initalState = {
   courses: [],

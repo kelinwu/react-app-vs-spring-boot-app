@@ -1,5 +1,5 @@
 import React from 'react'
-import FlexDiv from './components/styles/FlexDiv'
+import FlexDiv from './FlexDiv'
 
 const AppStudent = ({ student, index, course, addStudent2Course }) => {
     const newValue = `${course}-${student}`

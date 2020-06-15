@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import FlexDiv from './components/styles/FlexDiv';
+import FlexDiv from './FlexDiv';
 
 export const AppAddForm = ({ addACourse }) => {
     const [course, setCourse] = useState('')

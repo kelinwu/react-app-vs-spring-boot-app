@@ -1,5 +1,5 @@
 import React from 'react'
-import FlexDiv from './components/styles/FlexDiv'
+import FlexDiv from './FlexDiv'
 import AppStudent from './AppStudent'
 import { axisRight, bisectRight } from 'd3'
 
